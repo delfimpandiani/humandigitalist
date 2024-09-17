@@ -1,4 +1,4 @@
-remote_theme: tonygreen/hitchens
+remote_theme: patdryburgh/hitchens
 
 plugins:
   - jekyll-remote-theme
